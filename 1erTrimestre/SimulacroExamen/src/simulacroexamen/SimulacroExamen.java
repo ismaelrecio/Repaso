@@ -26,7 +26,7 @@ public class SimulacroExamen {
             }
 
         } while (numero >= 0);
-
+        System.out.println("prueba");
         System.out.println("1- Suma de los números pares introducidos");
         System.out.println("2- Media de los números pares introducidos con dos decimales");
         System.out.println("3- Media de los números impares introducidos con dos decimales");
